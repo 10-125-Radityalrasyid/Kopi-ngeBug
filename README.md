@@ -1,4 +1,5 @@
 # TUGAS BESAR DESAIN INTERAKSI
+## EduQuest: Petualangan Belajar Digital untuk Siswa Sekolah Dasar
 ## Kelompok Kopi Ngebug
 ## Kelas RA
 
@@ -11,4 +12,18 @@ Raisya Syifa Saleh           123140169
 Muhammad Arif Ardani         123140186
 ```
 ---
-# Deskripsi Program
+# Deskripsi Tugas Besar
+
+
+
+
+
+
+
+
+
+
+
+
+
+Link Proposal (https://s.itera.id/TMs04O)
